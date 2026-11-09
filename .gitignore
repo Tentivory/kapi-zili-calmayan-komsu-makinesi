@@ -1,0 +1,5 @@
+# Zil çalan dosyaları ignore et
+*.zil
+__pycache__/
+*.pyc
+.env
